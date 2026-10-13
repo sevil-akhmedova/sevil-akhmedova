@@ -22,9 +22,9 @@
 
 ### 📂 Projects
 
-**[Product & Customer Analytics](https://github.com/sevil-akhmedova/product-and-customer-analytics)**
-
-A/B-тест новой механики оплаты, автоматизация расчёта метрик на Python и SQL-сегментация клиентов.
+| Проект | Описание | Стек |
+|---|---|---|
+| [Product & Customer Analytics](https://github.com/sevil-akhmedova/product-and-customer-analytics) | A/B-тест новой механики оплаты, автоматизация расчёта метрик на Python и SQL-сегментация клиентов | Python, pandas, SciPy, SQL |
 
 Постепенно дополняю портфолио новыми аналитическими проектами.
 
