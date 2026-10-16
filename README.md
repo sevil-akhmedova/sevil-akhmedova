@@ -32,3 +32,9 @@
 ### 🎀 Beyond the data
 
 Люблю книги, искусство, комиксы и красивые вещи. Немного chronically online, немного research-obsessed. Могу даже выбор зубной пасты превратить в полноценное исследование😭
+
+### 📬 Контакты
+
+* 📄 **Резюме:** [Открыть в формате PDF](./assets/Ахмедова_Севиль_Аналитик_данных.pdf)
+* 💬 **Telegram:** [@seas_owl](https://t.me/seas_owl)
+* 📧 **Email:** akhmedovasevil@yandex.ru
