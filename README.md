@@ -10,8 +10,6 @@
 
 Люблю искать закономерности, проверять гипотезы и выяснять, что именно прячется за цифрами.
 
-📄 [Открыть резюме (PDF)](./assets/Ахмедова_Севиль_Аналитик_данных.pdf)
-
 ### 🛠 Tech stack
 
 - **Python:** pandas, NumPy, SciPy, matplotlib, seaborn
@@ -25,7 +23,7 @@
 
 | Проект | Описание | Стек |
 |---|---|---|
-| [Product & Customer Analytics](https://github.com/sevil-akhmedova/product-and-customer-analytics) | A/B-тест новой механики оплаты, автоматизация расчёта метрик на Python и SQL-сегментация клиентов | Python, pandas, SciPy, SQL |
+| [Product & Customer Analytics](https://github.com/sevil-akhmedova/product-and-customer-analytics) | A/B-тест механики оплаты: ARPPU вырос на ~35%, но значимого роста ARPU не выявлено. Вывод: полный запуск не рекомендован. Дополнительно: Python-автоматизация и SQL-сегментация. | Python, pandas, SciPy, SQL |
 
 Постепенно добавляю в портфолио как уже выполненные, так и новые аналитические проекты.
 
