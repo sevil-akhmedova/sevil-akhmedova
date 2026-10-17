@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hello-kitty.gif" alt="Hello Kitty работает за компьютером" width="320" />
+  <img src="assets/hello-kitty.gif" alt="Hello Kitty работает за компьютером" width="520" />
 </p>
 
 # Привет! Я Севиль ♡
