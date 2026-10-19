@@ -24,6 +24,7 @@
 | Проект | Описание | Стек |
 |---|---|---|
 | [Product & Customer Analytics](https://github.com/sevil-akhmedova/product-and-customer-analytics) | A/B-тест механики оплаты: ARPPU вырос на ~35%, но значимого роста ARPU не выявлено. Вывод: полный запуск не рекомендован. Дополнительно: Python-автоматизация и SQL-сегментация. | Python, pandas, SciPy, SQL |
+| [Social App Analytics](https://github.com/sevil-akhmedova/social-app-analytics) | Аналитика ленты и мессенджера: продуктовые метрики, retention, A/B-тестирование, прогнозирование активности и автоматизация ETL | Python, SQL, ClickHouse, Airflow, Superset, Orbit |
 
 Постепенно добавляю в портфолио как уже выполненные, так и новые аналитические проекты.
 
